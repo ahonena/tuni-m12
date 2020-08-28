@@ -1,18 +1,18 @@
 [submodule "m12-can2dds-publishers"]
 	path = m12-can2dds-publishers
-	url = git@github.com:/ahonena/m12-can2dds-publishers
+	url = git@github.com:ahonena/m12-can2dds-publishers
 [submodule "m12-dds2can-subscribers"]
 	path = m12-dds2can-subscribers
 	url = git@github.com:ahonena/m12-dds2can-subscribers.git
 [submodule "m12-gnss-publisher"]
 	path = m12-gnss-publisher
-	url = git@github.com:/ahonena/m12-gnss-publisher
+	url = git@github.com:ahonena/m12-gnss-publisher
 [submodule "dds-simulink-linux"]
 	path = dds-simulink-linux
-	url = git@github.com:/ahonena/dds-simulink-linux
+	url = git@github.com:ahonena/dds-simulink-linux
 [submodule "m12-idl"]
 	path = m12-idl
-	url = git@github.com:/ahonena/m12-idl
+	url = git@github.com:ahonena/m12-idl
 [submodule "rs-bp-ros2-adapter"]
 	path = rs-bp-ros2-adapter
-	url = git@github.com:/ahonena/rs-bp-ros2-adapter
+	url = git@github.com:ahonena/rs-bp-ros2-adapter
