@@ -13,3 +13,6 @@
 [submodule "m12-idl"]
 	path = m12-idl
 	url = git@github.com:/ahonena/m12-idl
+[submodule "rs-bp-ros2-adapter"]
+	path = rs-bp-ros2-adapter
+	url = git@github.com:/ahonena/rs-bp-ros2-adapter
