@@ -1,0 +1,3 @@
+[submodule "m12-can2dds-publishers"]
+	path = m12-can2dds-publishers
+	url = git@github.com:/ahonena/m12-can2dds-publishers
