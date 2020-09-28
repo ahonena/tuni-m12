@@ -10,3 +10,5 @@ M12 is a heavily customized wheel loader at Tampere University. It is a research
 
 
 ![Image of M12](https://github.com/ahonena/tuni-m12/blob/master/doc/photos/IMG_20200902_133649.jpg)
+
+You can see more of the [university research equipment here](https://research.tuni.fi/iha/research/autonomous-off-road-machines/).
