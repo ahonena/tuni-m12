@@ -3,6 +3,8 @@ This is a central repository for some software modules developed for M12 machine
 
 This repo also serves as the updatable storage for M12 documentation. It will contain most of the machines components datasheets and schematics on how they are connected.
 
+# For the [AI-HUB Tampere](https://research.tuni.fi/aihubtampere/) November workshop participants, this repository will be updated as we prepare the workshop. Most of the details of the presented technical content will be stored here.
+
 # What is M12?
 M12 is a heavily customized wheel loader at Tampere University. It is a research platform for mobile hydraulics and autonomous machine research, equipped with multiple fluid power and exteroceptive sensors.
 
