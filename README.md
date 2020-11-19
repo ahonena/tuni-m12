@@ -56,9 +56,10 @@ COB-ID 0x186 (hexadecimal) / 390 (decimal).
 
 
 # M12 major software parts
-Much of the software in m12 utilizes [Data Distribution Service](https://www.google.com/search?client=firefox-b-e&q=dds), with the particular implementation being [RTI DDS Connext](https://www.rti.com/products). It is used in two ways: C and C++ project level and Simulink model level, but Simulink model is generated also into code for real-time execution.
+Much of the software in M12 utilizes [Data Distribution Service](https://www.google.com/search?client=firefox-b-e&q=dds), with the particular implementation being [RTI DDS Connext](https://www.rti.com/products). It is used in two ways: C and C++ project level and Simulink model level, but Simulink model is generated also into code for real-time execution.
 
 ## Major steps of using DDS with C/C++ projects
+Most of these steps are already configured and automated in the M12 software repositories, but they are still important to know.
 1. Define [interfacing with .idl](https://community.rti.com/static/documentation/connext-dds/6.0.1/doc/manuals/connext_dds/html_files/RTI_ConnextDDS_CoreLibraries_UsersManual/Content/UsersManual/Creating_User_Data_Types_with_IDL.htm) files.
 
 2. Generate C/C++ code (headers and implementation of the .idl types) from the .idl files with [RTI Code generator](https://community.rti.com/static/documentation/connext-dds/6.0.1/doc/manuals/connext_dds/code_generator/html_files/RTI_CodeGenerator_UsersManual/index.htm). 
